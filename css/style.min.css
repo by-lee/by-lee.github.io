@@ -465,9 +465,8 @@ a {
 }
 
 #scheme-Paradox .index-top-block-slogan {
-  position: relative;
-  top: -260px;
-  left: 65%;
+  position: relative;     /*修正slogan位置*/
+  top: -260px;            /*修正slogan位置*/
   font-size: 24px;
   line-height: 26px;
   font-weight: 400;
